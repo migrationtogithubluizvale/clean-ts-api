@@ -4,7 +4,7 @@
 
  * DDD
  * TDD
- * SOA
+ * Single Responsibility Principle
  * Continuous Integration
  * Design Patterns
  * SOLID
