@@ -12,8 +12,7 @@
  
  
  
- ## [**Link for the API documentation**](http://fordevs.herokuapp.com/api-docs)
-
+ 
  ## APIS Builded
 
 1. [Cadastro](./requirements/signup.md)
