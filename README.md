@@ -1,6 +1,6 @@
 # Clean Ts Api
 
-## System that i designed using the best practices to build Apis, some of the core concepts used in this project were : 
+## System designed using the best practices to build Apis, some of the core concepts used in this project were : 
 
  * DDD
  * TDD
@@ -15,9 +15,9 @@
  
  ## APIS Builded
 
-1. [Cadastro](./requirements/signup.md)
+1. [Registration](./requirements/signup.md)
 2. [Login](./requirements/login.md)
-3. [Criar enquete](./requirements/add-survey.md)
-4. [Listar enquetes](./requirements/load-surveys.md)
-5. [Responder enquete](./requirements/save-survey-result.md)
-6. [Resultado da enquete](./requirements/load-survey-result.md)
+3. [Create survey](./requirements/add-survey.md)
+4. [List survey](./requirements/load-surveys.md)
+5. [Answer survey](./requirements/save-survey-result.md)
+6. [Survey results](./requirements/load-survey-result.md)
